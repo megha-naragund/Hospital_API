@@ -13,7 +13,7 @@
     ii. Status will be either of: [Negative, Travelled-Quarantine, Symptoms-Quarantine, Positive-Admit]
     iii. Date
    
-# Required Routes:
+# Routes:
 
 /doctors/register → with username and password
 /doctors/login → returns the JWT to be used
